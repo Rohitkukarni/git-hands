@@ -1,0 +1,22 @@
+git init - make git repo
+git add - add files in staging area
+git rm --cached <file-name> - staging to untrack file
+git restore - restore files
+git commit -m "add" - add files track area
+HEAD - is latest commit 
+git status - show status
+git log - show log
+git log --oneline - show log in one lone 
+git remote add origin URL - to add remote origin
+git remote set-url URL - add url origin to local 
+git branch - show current branch
+git branch b-name - create name branch
+git checkout b-name - change branch
+git switch b-name - also used to change branch
+git branch -M b-name - rename branch
+git checkout -d b-name- delete a branch
+github fork - copy files github to github
+git clone url - copy remote github files to local
+git revert HEAD - revert latest commit
+git reset  - dont know about it
+give some break
